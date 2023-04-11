@@ -82,11 +82,11 @@
 <path class="st2" d="M300.22897,15.65692c0,0,15.41556-1.6984,26.16547,14.94888"/>
 <path class="st2" d="M208.87254,41.70152c31.38397,5.85567,60.06844,31.26337,76.91243,70.89632"/>
 <g>
-	<text transform="matrix(1 0 0 1 118.59721 44.67408)" class="st0 st1">Heat inducer</text>
+	<text transform="matrix(1 0 0 1 118.59721 44.67408)" class="st0 st1">Inductor de calor</text>
 </g>
 <line class="st2" x1="284.3461" y1="172.10768" x2="327.24838" y2="172.10768"/>
 <g>
-	<text transform="matrix(1 0 0 1 331.84177 175.99632)" class="st0 st1">Sternum</text>
+	<text transform="matrix(1 0 0 1 331.84177 175.99632)" class="st0 st1">Esternón</text>
 </g>
 <path class="st2" d="M289.85001,149.9962c0,0-40.65041-74.79674-105.69106-78.86178"/>
 <path class="st2" d="M322.37033,328.858c0,0,30.0813-1.62601,42.27643,21.9512"/>
